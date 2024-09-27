@@ -1,4 +1,4 @@
-#Vision Statement
+# Vision Statement
 
 Our project is a bartering app designed for anyone who owns items and wants to exchange them for other goods. Unlike traditional platforms like Facebook Marketplace or eBay, which primarily focus on monetary transactions, this app emphasizes trading and negotiation, offering users more flexibility and creativity in exchanging their belongings.
 The app will allow users to create personalized accounts to manage trades and preferences. It will feature a streamlined interface to explore, search, and sort through various items, making it easy to find what they need—even discovering items they didn’t know they wanted. To ensure transparency and trust within the community, a reputation system will be implemented where users can rate and review one another based on past trades.
