@@ -8,3 +8,4 @@ This app will allow users to create personalized accounts to add items they no l
 Compared to traditional online platforms like Facebook Marketplace or eBay, which focus primarily on buying and selling through monetary transactions, our bartering system offers a distinct advantage by removing the need for cash. These cash-based platforms can limit users who may not want to spend money or are unsure of the monetary value of their items. By focusing on trading instead, our app creates an environment where users can leverage their belongings, not their wallets
 Ultimately, our app aims to make everyday bartering simple, fun, and cash-free, giving users the freedom to trade in a way that fits their individual needs.
 
+Evelyn Bender, Katelin Jandris, Landon Faber, Musa Kwong, Sam Lamsma, Souad Yakubu
