@@ -1,4 +1,4 @@
-# Vision Statement
+# Bombastic
 
 Our project is a bartering app designed for anyone who owns items and wants to exchange them for other goods. Many people seek alternatives to cash transactions for various reasons: they may prefer a more sustainable, resourceful way to obtain goods, have a surplus of items they no longer need, or enjoy the creativity and personal connection involved in negotiation. 
 Our app emphasizes trading and negotiation, rather than money, offering users more flexibility and creativity in exchanging their belongings. 
