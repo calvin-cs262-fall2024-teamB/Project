@@ -1,4 +1,14 @@
 User Stories
+As a college student, I want to easily navigate and use the app on my phone, so I can explore items and trade items wherever I am.
+As a user, I want a simple, easy to understand experience when setting up my profile and listing items, so I can quickly get started 
+without needing extensive explanations or lots of time.
+As a user, I want things like item images, buttons, and text to automatically resize and adjust spacing based on my device’s screen size,
+so I can view listings and details clearly without needing to zoom or scroll excessively.
+As a user, I want an interactive and dynamic search feature that filters items in real time as I type, so I can quickly find items I’m 
+interested in without needing to reload the page or wait an extensive amount of time.
+As a user, I want to see items listed with accurate details and user information that is pulled from a relational database, so I can trust 
+that the item descriptions, availability, and user reviews are reliable and up-to-date.
+
 
 Evelyn: As a college student who has lots of old textbooks and is still living on campus, 
 I need to find someone who is interested in my textbooks so that I can clear up space and get something in return.
