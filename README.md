@@ -12,8 +12,12 @@ Evelyn Bender, Katelin Jandris, Landon Faber, Musa Kwong, Sam Lamsma, Souad Yaku
 
 
 ### Client
-App client [repo](https://github.com/calvin-cs262-fall2024-teamB/Client)
+[App client repo](https://github.com/calvin-cs262-fall2024-teamB/Client)
 
 
 ### Service
-App service [repo](https://github.com/calvin-cs262-fall2024-teamB/Service)
+[App service repo](https://github.com/calvin-cs262-fall2024-teamB/Service)
+
+### Design
+[Domain Model](https://github.com/calvin-cs262-fall2024-teamB/Project/DomainModel.png)
+[UI Model](https://github.com/calvin-cs262-fall2024-teamB/Project/UIOverview.png)
