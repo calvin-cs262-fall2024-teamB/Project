@@ -9,3 +9,11 @@ Compared to traditional online platforms like Facebook Marketplace or eBay, whic
 Ultimately, our app aims to make everyday bartering simple, fun, and cash-free, giving users the freedom to trade in a way that fits their individual needs.
 
 Evelyn Bender, Katelin Jandris, Landon Faber, Musa Kwong, Sam Lamsma, Souad Yakubu
+
+
+### Client
+App client [repo](https://github.com/calvin-cs262-fall2024-teamB/Client)
+
+
+### Service
+App service [repo](https://github.com/calvin-cs262-fall2024-teamB/Service)
