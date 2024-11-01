@@ -19,5 +19,5 @@ Evelyn Bender, Katelin Jandris, Landon Faber, Musa Kwong, Sam Lamsma, Souad Yaku
 [App service repo](https://github.com/calvin-cs262-fall2024-teamB/Service)
 
 ### Design
-[Domain Model](https://github.com/calvin-cs262-fall2024-teamB/Project/DomainModel.png)  
-[UI Model](https://github.com/calvin-cs262-fall2024-teamB/Project/UIOverview.png)
+[Domain Model](DomainModel.png)  
+[UI Model](UIOverview.png)
