@@ -21,6 +21,7 @@ Evelyn Bender, Katelin Jandris, Landon Faber, Musa Kwong, Sam Lamsma, Souad Yaku
 ### Design
 [Domain Model](BombasticBarteringDomainModel.png)
 [UI Model](UIOverview.png)
+[Deployment Diagram](deploymentModel.png)
 
 ### User Testing
 [User Test Report](https://github.com/calvin-cs262-fall2024-teamB/Project/blob/main/Team%20B%20User%20Test%20Report.docx)
