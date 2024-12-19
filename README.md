@@ -19,5 +19,9 @@ Evelyn Bender, Katelin Jandris, Landon Faber, Musa Kwong, Sam Lamsma, Souad Yaku
 [App service repo](https://github.com/calvin-cs262-fall2024-teamB/Service)
 
 ### Design
-[Domain Model](DomainModel.png)  
+[Domain Model](BombasticBarteringDomainModel.png)
 [UI Model](UIOverview.png)
+
+### User Testing
+[User Test Report] (Team B User Test Report.docx)
+[User Test Script] (User Testing Script.pdf)
