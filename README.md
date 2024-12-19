@@ -21,3 +21,7 @@ Evelyn Bender, Katelin Jandris, Landon Faber, Musa Kwong, Sam Lamsma, Souad Yaku
 ### Design
 [Domain Model](DomainModel.png)  
 [UI Model](UIOverview.png)
+
+### User Testing
+[User Testing Script](https://github.com/calvin-cs262-fall2024-teamB/Project/blob/main/User%20Testing%20Script.pdf)
+[User Testing Report](https://github.com/calvin-cs262-fall2024-teamB/Project/blob/main/Team%20B%20User%20Test%20Report.docx)
